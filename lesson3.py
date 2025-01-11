@@ -11,4 +11,8 @@
 # print(5 / 4 / 2)
 # print(5 ** 4 ** 2)
 
-print(65 / 0)
+#print(65 / 0)
+
+# a, b, c = 8, 5, 3
+# print((a/(b+c)-a)/c)
+
